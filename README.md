@@ -1,4 +1,4 @@
-## Hi, I'm Dean
+## Hi, I'm Ariel
 
 Student, currently learning to build things properly rather than just make
 them run. Most of what is here is small tools I wanted for myself, written
